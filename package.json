@@ -1,0 +1,24 @@
+{
+  "name": "senac_exercicio",
+  "version": "1.0.0",
+  "description": "REPOSITORIO DE EXERCICIOS SENAC",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Natanael19832/SENAC_EXERCICIO.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Natanael19832/SENAC_EXERCICIO/issues"
+  },
+  "homepage": "https://github.com/Natanael19832/SENAC_EXERCICIO#readme",
+  "dependencies": {
+    "@inquirer/prompts": "^8.7.2"
+  }
+}

@@ -38,3 +38,7 @@ console.log(separador.repeat(40));
 console.log("\n\n");
 // padEnd signica espaço no final da caixa
 // padStart signica espaço no começo caixa
+
+
+
+
